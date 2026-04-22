@@ -20,7 +20,7 @@ A clean Go wrapper for the `llama.cpp` tokenizer, providing efficient text encod
 
 1. **Clone the repository** (including submodules):
    ```bash
-   git clone --recursive https://github.com/youruser/llama.cpp_token.git
+   git clone --recursive https://github.com/simpala/llama.cpp_token.git
    cd llama.cpp_token
    ```
 
