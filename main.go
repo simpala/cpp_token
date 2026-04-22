@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-    modelPath := "/media/simpala/New_Volume1/devel/OLLAMA_MODELS/bartowski/Qwen_Qwen3.5-0.8B-Q8_0.gguf" // ← CHANGE THIS
+    modelPath := "/path/to/model.gguf" // ← CHANGE THIS
 
     t, err := tokenizer.New(modelPath)
     if err != nil {
